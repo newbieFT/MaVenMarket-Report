@@ -1,7 +1,9 @@
 # MaVenMarket-Report
 The comprehensive business report of stores in the USA, Canada, and Mexico.
 
-![image](https://github.com/newbieFT/MaVenMarket-Report/assets/85185399/b2ffc668-a921-4075-884a-ae07ca66b9a3)
+
+![image](https://github.com/newbieFT/MaVenMarket-Report/assets/85185399/e1af0cdf-a20b-4e91-8a02-8ae2bde078e5)
+
 
 
 ## 1.Install requirements 
